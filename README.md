@@ -1,5 +1,5 @@
 # BCMB - Block Chain Message Board
-### An online message broad system based on block chain structure.
+### An online message broad system based on block chain structure
 
 <br>
 
